@@ -2,12 +2,6 @@
 
 ## Register No.:212223110013
 
-
-
----
-
----
-
 #  Aim
 
 To write and implement Python code using multiple AI tools to automate API interaction, compare AI-generated outputs, identify and fix programming errors, optimize code, explain computational complexity, generate unit tests, and evaluate the effectiveness of AI-assisted programming compared with manual coding.
